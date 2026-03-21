@@ -84,6 +84,10 @@ Digging deep into the architecture of failure. If there is a crack in the founda
   <img src="https://cdn.simpleicons.org/espressif/E7352C" title="ESP32" alt="ESP32" width="40" height="40"/>
 </div>
 
+
+### **Achievements:**
+- 🏆 TryHackMe — Top 1% Global Ranking
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rudii-25&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Rudii-25&theme=radical&hide_border=false)<br/>
