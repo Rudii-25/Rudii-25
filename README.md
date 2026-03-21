@@ -37,7 +37,7 @@ Digging deep into the architecture of failure. If there is a crack in the founda
 
 *“The world is full of locked doors. I specialize in the keys.”*
 
-
+- 🏆 TryHackMe — Top 1% Global Ranking
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/not_.rudiiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudra-sharma-714a7b259) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rudra25trikha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rudra25trikha@gmail.com) 
@@ -83,10 +83,6 @@ Digging deep into the architecture of failure. If there is a crack in the founda
   <img src="https://frida.re/img/logotype.svg" title="Frida" alt="Frida" width="60" height="40"/>&nbsp;
   <img src="https://cdn.simpleicons.org/espressif/E7352C" title="ESP32" alt="ESP32" width="40" height="40"/>
 </div>
-
-
-### **Achievements:**
-- 🏆 TryHackMe — Top 1% Global Ranking
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rudii-25&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
