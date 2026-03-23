@@ -58,7 +58,7 @@ Digging deep into the architecture of failure. If there is a crack in the founda
   <img src="https://cdn.simpleicons.org/c/A8B9CC" title="C" alt="C" height="42"/>&nbsp;
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" title="C++" alt="C++" height="42"/>&nbsp;
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" title="Bash" alt="Bash" height="42"/>
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,nestjs,py,aws,powershell,windows,ruby,netlify,angular,bootstrap,electron,fastapi,nodejs,threejs,vue,supabase,sqlite,figma,github,git,githubactions,arduino,vercel,vite" height="" width="750" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,nestjs,py,aws,powershell,windows,ruby,netlify,angular,bootstrap,electron,fastapi,nodejs,threejs,vue,supabase,sqlite,figma,github,git,githubactions,arduino,vercel,vite,mysql,postgresql,mongodb" height="" width="750" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" title="React Router" height="42" alt="react-router" />&nbsp;
   <img src="https://cdn.simpleicons.org/gitpod/FFAE33" title="Gitpod" height="42" alt="Gitpod"/>&nbsp;
